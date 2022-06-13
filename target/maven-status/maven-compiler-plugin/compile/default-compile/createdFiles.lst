@@ -1,0 +1,7 @@
+br/unibh/sdm/backend_onlybank/persistencia/DynamoDBConfig.class
+br/unibh/sdm/backend_onlybank/SwaggerConfiguration.class
+br/unibh/sdm/backend_onlybank/persistencia/ContaRepository.class
+br/unibh/sdm/backend_onlybank/Application.class
+br/unibh/sdm/backend_onlybank/rest/ContaController.class
+br/unibh/sdm/backend_onlybank/entidades/Conta.class
+br/unibh/sdm/backend_onlybank/negocio/ContaService.class

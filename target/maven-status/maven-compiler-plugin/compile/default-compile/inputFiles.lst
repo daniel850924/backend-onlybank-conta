@@ -1,0 +1,7 @@
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/negocio/ContaService.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/entidades/Conta.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/SwaggerConfiguration.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/Application.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/persistencia/ContaRepository.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/persistencia/DynamoDBConfig.java
+/Users/FABNW1H/Documents/Daniel/unibh/SDpratica/MicroServicos/backend-onlybank-conta/src/main/java/br/unibh/sdm/backend_onlybank/rest/ContaController.java
